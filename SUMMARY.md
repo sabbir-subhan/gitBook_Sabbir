@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Hello Word](README.md)
+* [Hello World](README.md)
+* [Hello World](hello-world.md)
 
